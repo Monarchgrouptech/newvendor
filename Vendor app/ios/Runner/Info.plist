@@ -12,6 +12,9 @@
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+<key>CFBundleDisplayName</key>
+<string>Pegasus Vendor</string>
+
 	<key>CFBundleName</key>
 	<string>Pegasus-Vendor</string>
 	<key>CFBundlePackageType</key>
@@ -23,7 +26,7 @@
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
-	<false/>
+	<true/>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSBluetoothAlwaysUsageDescription</key>
